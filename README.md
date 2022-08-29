@@ -45,7 +45,7 @@
 ###
 
 <h3 align="center">"Nothing easy is worth doing!"</h3>
-<img href="https://raw.githubusercontent.com/kristianaleksiev/kristianaleksiev/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
