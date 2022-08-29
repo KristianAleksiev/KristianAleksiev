@@ -1,6 +1,6 @@
 
-<h1><em> "Nothing easy is worth doing!" </em></h1>
-<h1 align="center">Hi 👋, I'm Kristian Aleksiev.</h1>
+
+<h1>Hi 👋, I'm Kristian Aleksiev.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kristianaleksiev&label=Profile%20views&color=0e75b6&style=flat" alt="kristianaleksiev" /> </p>
 
 - 🌱 I’m currently learning **Django**
@@ -18,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kristianaleksiev&show_icons=true&locale=en" alt="kristianaleksiev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kristianaleksiev&" alt="kristianaleksiev" /></p>
+
+<h1><em> "Nothing easy is worth doing!" </em></h1>
