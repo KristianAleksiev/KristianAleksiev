@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi! My name is Kristian Aleksiev!</h2>
 <br>
   <div align="center">
-  <p>🌱 I’m currently learning: Artificial Intelligence</p>
+  <p>🌱 I’m currently learning: Linux Sys Administration</p>
 
   📫 How to reach me **k.aleksiev@abv.bg**
 </div><br>
@@ -19,8 +19,7 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://studygyaan.com/wp-content/uploads/2021/12/CicamXxN_400x400-1.jpg" height="30" width="42" alt="django logo"  />
-</div>
+ </div>
 
 
 
