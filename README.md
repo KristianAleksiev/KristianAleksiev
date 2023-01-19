@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi! My name is Kristian Aleksiev!</h2>
 <br>
   <div align="center">
-  <p>🌱 I’m currently learning: Linux Sys Administration</p>
+  <p>🌱 I’m currently learning: DevOps</p>
 
   📫 How to reach me **k.aleksiev@abv.bg**
 </div><br>
